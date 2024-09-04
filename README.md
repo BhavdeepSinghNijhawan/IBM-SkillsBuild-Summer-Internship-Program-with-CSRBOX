@@ -1,4 +1,4 @@
-<h1 align="center">IBM SKILLSBUILD SUMMER INTERNSHIP PROGRAM WTH CSRBOX</h1>
+<h1 align="center">IBM SKILLSBUILD SUMMER INTERNSHIP PROGRAM WITH CSRBOX</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9936b7c6-cc18-4594-93e6-996cda79512e" />
