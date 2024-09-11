@@ -19,9 +19,17 @@
   <img src="https://github.com/user-attachments/assets/bdcfca2f-1a60-4b53-991a-d6f02fc6ef32" />
 </p>
 
-## TECHNICAL STACKS
+## DATASET
+
+- www.kaggle.com
+
+## TECHNICAL STACK
 
 - Python
+
+## TOOL
+
+- Jupyter Notebook
 
 ## CONTRIBUTOR
 
