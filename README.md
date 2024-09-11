@@ -1,5 +1,9 @@
 <h1 align="center">IBM SKILLSBUILD SUMMER INTERNSHIP PROGRAM WITH CSRBOX</h1>
 
+- **Company:**  IBM SkillsBuild CSRBOX
+- **Duration:** 4th June 2024 - 5th August 2024
+- **Internship Position:** Data Analytics Intern
+  
 ## APPENDICES
 
 <p align="center">
